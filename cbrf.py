@@ -3,6 +3,9 @@ import datetime
 import re
 import typing
 from decimal import Decimal
+from warnings import warn
+
+warn("We have moved from M$ GitHub to https://codeberg.org/KOLANICH-libs/cbrf.py , read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
 
 import bs4
 from Cache import Cache
